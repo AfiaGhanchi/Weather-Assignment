@@ -7,7 +7,7 @@ if (weather == "sunny") {
     " <div class='card-body'>" +
     "<p class='card-text'>" +
     "<h1 style='margin:auto; margin-top:30px font-size:40px; font-weight: bold;  color: rgb(255, 218, 6); '>" +
-    " Sunny" +
+    " Sunny😰🥴" +
     "</h1>" +
     "</p>" +
     "</div>" +
@@ -23,7 +23,7 @@ else if (weather == "rainy") {
     " <div class='card-body'>" +
     "<p class='card-text'>" +
     "<h1 style='margin:auto; margin-top:30px font-size:40px; font-weight: bold; color: rgb(16, 16, 146);'>" +
-    " Rainy" +
+    " Rainy☔😊" +
     "</h1>" +
     "</p>" +
     "</div>" +
@@ -38,7 +38,7 @@ else if (weather == "cloudy") {
     " <div class='card-body'>" +
     "<p class='card-text'>" +
     "<h1 style='margin:auto; margin-top:30px font-size:40px; font-weight: bold; color: deepskyblue;'>" +
-    " Cloudy" +
+    " Cloudy🤩" +
     "</h1>" +
     "</p>" +
     "</div>" +
@@ -53,7 +53,8 @@ else if (weather == "windy") {
     " <div class='card-body'>" +
     "<p class='card-text'>" +
     "<h1 style='margin:auto; margin-top:30px font-size:40px; font-weight: bold;  color: lightslategray;'>" +
-    " Windy" +
+    " Windy😶‍🌫🍃" +
+
     "</h1>" +
     "</p>" +
     "</div>" +
@@ -71,7 +72,7 @@ else {
     "<p class='card-text'>" +
 
     "<h1 style='margin:auto; margin-top:30px font-size:40px; font-weight: bold;  color: rgb(195, 17, 17);text-align: center; '>" +
-    " Weather Not Found" +
+    " Weather Not Found 🧐😒" +
     "</h1>" +
     "</p>" +
     "</div>" +
