@@ -22,7 +22,7 @@ else if (weather == "rainy") {
     "<img src='rainy.png' class='card-img-top' alt='...>" +
     " <div class='card-body'>" +
     "<p class='card-text'>" +
-    "<h1 style='margin:auto; margin-top:30px font-size:40px; font-weight: bold; color: rgb(16, 16, 146);'>" +
+    "<h1 style='margin:auto; mt-5 font-size:40px; font-weight: bold; color: rgb(16, 16, 146);'>" +
     " Rainy☔😊" +
     "</h1>" +
     "</p>" +
